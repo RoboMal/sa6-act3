@@ -1,3 +1,11 @@
+'''
+Name: Malcolm King
+Class: COMP-3081-001
+
+Goal: Write a Python program that uses a lambda function to sort list items by length (shortest to longest)
+If the length of two items is the same, then sort by alphabet
+'''
+
 fish = ["shark", "guppy", "swordfish", "carp", 
         "tigerfish", "oarfish", "marlin"]
 
